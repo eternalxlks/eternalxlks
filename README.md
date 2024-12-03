@@ -6,8 +6,4 @@
 - 😄 Pronouns: he/him/god/GOAT
 - ⚡ Fun fact: I'm cool (not really a fun fact)
 - 🤯 I have a shop: https://eternalxlks.github.io/EternalShop/
-
-<!---
-eternalxlks/eternalxlks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  
