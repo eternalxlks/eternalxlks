@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on making video games!
 - 😄 Pronouns: he/him/god/GOAT
-- ⚡ Fun fact: I'm cool (not really a fun fact)
+- ⚡ Fun fact: I'm a Dragon Ball guy. 
 - 🤯 I have a shop: [The Shop](https://eternalxlks.github.io/EternalShop/)
