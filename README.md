@@ -5,5 +5,4 @@
 - 📫 How to reach me jotarokujo0539@gmail.com
 - 😄 Pronouns: he/him/god/GOAT
 - ⚡ Fun fact: I'm cool (not really a fun fact)
-- 🤯 I have a shop: https://eternalxlks.github.io/EternalShop/
-  
+- 🤯 I have a shop: [The Shop](https://eternalxlks.github.io/EternalShop/)
