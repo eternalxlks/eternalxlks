@@ -14,6 +14,7 @@ I really would like for someone to fork my repositories and help me with any bug
 I would appreciate tips for my repositories and how to get better! 🥺
 ### Stuff:
 - 😄 Pronouns: he/him/god/GOAT (haha)
-- ⚡ Fun fact: I'm a Dragon Ball guy. 
+- ⚡ Fun fact: I'm a Dragon Ball guy.
+- 🧠 And if for some reason, you ever want to see your exact location, use this! [Location Finder!(Latitude and Longitude only!)](https://eternalxlks.github.io/FindMyLocation/)
 ![image](https://github.com/user-attachments/assets/7841927b-be9c-4f92-a230-60c2e4f6552a)
 
