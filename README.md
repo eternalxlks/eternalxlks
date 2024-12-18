@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/7841927b-be9c-4f92-a230-60c2e4f6552a)
+
 <img src="https://github.com/eternalxlks/eternalxlks/blob/main/blackgoku.gif?raw=true" alt="blackgoku.gif"/>
 
 # Hi! I'm eternalxlks 👋
