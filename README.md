@@ -4,10 +4,9 @@
 
 I am just a starter, who is still trying to figure out how to fully use GitHub to it's full extent................ 
 So far, I have made a few things:
-[My Website!](https://eternalxlks.github.io)&nbsp;&nbsp;
-[My Shop! (It actually doesn't work)](https://eternalxlks.github.io/EternalShop/)&nbsp;&nbsp;
-[Web Pong!](https://eternalxlks.github.io/WebPong/)&nbsp;&nbsp;
-[Bomb Dodgers!(use WASD to move)](https://eternalxlks.github.io/BombDodgers/)
+<a href="https://github.com/eternalxlks" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 ### Note this:
 I really would like for someone to fork my repositories and help me with any bugs/malfunctions! 🙏 
 ### Tips
