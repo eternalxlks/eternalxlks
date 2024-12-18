@@ -9,4 +9,5 @@ So far, I have made a few things:
 [Bomb Dodgers!(use WASD to move)](https://eternalxlks.github.io/BombDodgers/)
 - 😄 Pronouns: he/him/god/GOAT (haha)
 - ⚡ Fun fact: I'm a Dragon Ball guy. 
-- 🤯 I have a shop: [The Shop](https://eternalxlks.github.io/EternalShop/)
+- #### Contributing:
+- you can contribute and I honetly don't care if you fork my repositories.
