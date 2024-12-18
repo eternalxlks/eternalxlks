@@ -1,6 +1,5 @@
-
-# Hi! I'm eternalxlks 👋
 <img src="https://github.com/eternalxlks/eternalxlks/blob/main/robotwaving.gif?raw=true" alt="robotwaving.gif"/>
+# Hi! I'm eternalxlks 👋
 I am just a starter, who is still trying to figure out how to fully use GitHub to it's full extent................ 
 So far, I have made a few things:
 [My Website!](https://eternalxlks.github.io)&nbsp;&nbsp;
