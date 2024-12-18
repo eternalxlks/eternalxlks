@@ -1,7 +1,7 @@
-<img src="https://github.com/eternalxlks/eternalxlks/blob/main/blackgoku.gif?raw=true" alt="blackgoku.gif"/>
 
 
 # Hi! I'm eternalxlks 👋
+<img src="https://github.com/eternalxlks/eternalxlks/blob/main/blackgoku.gif?raw=true" alt="blackgoku.gif"/>
 I am just a starter, who is still trying to figure out how to fully use GitHub to it's full extent................ 
 So far, I have made a few things:
 [My Website!](https://eternalxlks.github.io)&nbsp;&nbsp;
