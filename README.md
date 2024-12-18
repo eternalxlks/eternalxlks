@@ -4,9 +4,7 @@
 
 I am just a starter, who is still trying to figure out how to fully use GitHub to it's full extent................ 
 So far, I have made a few things:
-<a href="https://github.com/eternalxlks" target="_blank">
-![image](https://github.com/user-attachments/assets/a9d143d8-3560-466e-a73a-cca7b939d116)
-</a>
+<a href="https://eternalxlks.github.io" title="Portfolio"><img alt="Email
 ### Note this:
 I really would like for someone to fork my repositories and help me with any bugs/malfunctions! 🙏 
 ### Tips
