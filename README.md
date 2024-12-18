@@ -10,4 +10,4 @@ So far, I have made a few things:
 - 😄 Pronouns: he/him/god/GOAT (haha)
 - ⚡ Fun fact: I'm a Dragon Ball guy. 
 - #### Contributing:
-- you can contribute and I honestly don't care if you fork my repositories, just don't say that you made them!
+- you can contribute and I honestly don't care if you fork my repositories. If you can can you please help? 🙏
