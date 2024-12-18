@@ -20,5 +20,6 @@ I would appreciate tips for my repositories and how to get better! 🥺
 - 🧠 And if for some reason, you ever want to see your exact location, use this! [Location Finder!(Latitude and Longitude only!)](https://eternalxlks.github.io/FindYourLocation/)
 - 🍿 If your bored, you could always fidget with 2D-Minecraft! And when you fill out the space, just reload and you start fresh! (It's actally very bugged but works on Mobile) [The Game](https://eternalxlks.github.io/2D-Minecraft/)
 - 🐍 If you belive you are getting hacked, use this! (Refer to the [README](https://github.com/eternalxlks/HackDetector) for full knowledge on how it works.) [The Hack Detector](https://eternalxls.github.io/HackDetector/)
+- 🗒️ If you want to see the latest gaming news; check out my blog! [The-Eternal-Chronicle](https://eternalxlks.github.io/The-eternal-Chronicle/)
 ![image](https://github.com/user-attachments/assets/7841927b-be9c-4f92-a230-60c2e4f6552a)
 
