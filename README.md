@@ -23,5 +23,6 @@ I would appreciate tips for my repositories and how to get better! 🥺
 - 🗒️ If you want to see the latest gaming news; check out my blog! [The-Eternal-Chronicle](https://eternalxlks.github.io/The-eternal-Chronicle/)
 - 🤯 Until then go, crazy
  <img src="https://github.com/eternalxlks/eternalxlks/blob/main/dancing-cat-dance.gif?raw=true" alt="dancing-cat-dance.gif"/>
-![image](https://github.com/user-attachments/assets/7841927b-be9c-4f92-a230-60c2e4f6552a)
+![image](https://github.com/user-attachments/assets/cbd5f706-4752-4c9b-b668-3c135540979e)
+
 
