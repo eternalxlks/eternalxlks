@@ -5,7 +5,7 @@
 I am just a starter, who is still trying to figure out how to use GitHub to it's full extent................ 
 So far, I have made a few things that took some time:
 1. [My Website](https://eternalxlks.github.io)
-2. [My Shop!](https://eternalxks.github.io/EternalShop/)
+2. [My Shop!](https://eternalxlks.github.io/EternalShop/)
 3. [My Shop's profile (please follow!)](https://github.com/The-EternalShop)
 4. [Web Pong!](https://eternalxlks.github.io/WebPong/)
 5. [Bomb Dodgers! (use WASD to move)](https://eternalxlks.github.io/BombDodgers/)
