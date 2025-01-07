@@ -2,14 +2,12 @@
 # Hi! I'm eternalxlks 👋
 <img src="https://github.com/eternalxlks/eternalxlks/blob/main/robotwaving.gif?raw=true" alt="robotwaving.gif"/>
 
-Wait a second, I Exist.
-So far, I have made a few things that took some time:
+Here are a few things I made................
 1. [My Website](https://eternalxlks.github.io)
 2. [My Shop!](https://eternalxlks.github.io/EternalShop/)
-3. [My Shop's profile (please follow!)](https://github.com/The-EternalShop)
-4. [Web Pong!](https://eternalxlks.github.io/WebPong/)
-5. [Bomb Dodgers! (use WASD to move)](https://eternalxlks.github.io/BombDodgers/)
-6. [My GitHub Account! (please follow!)](https://github.com/eternalxlks)
+3. [Web Pong!](https://eternalxlks.github.io/WebPong/)
+4. [Bomb Dodgers! (use WASD to move)](https://eternalxlks.github.io/BombDodgers/)
+5. [2D-Fortnite](eternalxlks.github.io/2D-Fortnite/)
 ### Note this:
 I really would like for someone to fork my repositories and help me with any bugs/malfunctions! 🙏 
 ### Tips
