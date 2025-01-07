@@ -8,10 +8,6 @@ Here are a few things I made................
 3. [Web Pong!](https://eternalxlks.github.io/WebPong/)
 4. [Bomb Dodgers! (use WASD to move)](https://eternalxlks.github.io/BombDodgers/)
 5. [2D-Fortnite](eternalxlks.github.io/2D-Fortnite/)
-### Note this:
-I really would like for someone to fork my repositories and help me with any bugs/malfunctions! 🙏 
-### Tips
-I would appreciate tips for my repositories and how to get better! 🥺
 ### Stuff:
 - 😄 Pronouns: he/him/god/GOAT (haha)
 - ⚡ Fun fact: I'm a Dragon Ball guy.
