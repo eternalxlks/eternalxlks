@@ -2,7 +2,7 @@
 # Hi! I'm eternalxlks 👋
 <img src="https://github.com/eternalxlks/eternalxlks/blob/main/robotwaving.gif?raw=true" alt="robotwaving.gif"/>
 
-I am just a starter, who is still trying to figure out how to use GitHub to it's full extent................ 
+Wait a second, I Exist.
 So far, I have made a few things that took some time:
 1. [My Website](https://eternalxlks.github.io)
 2. [My Shop!](https://eternalxlks.github.io/EternalShop/)
