@@ -7,7 +7,7 @@ Here are a few things I made................
 2. [My Shop!](https://eternalxlks.github.io/EternalShop/)
 3. [Web Pong!](https://eternalxlks.github.io/WebPong/)
 4. [Bomb Dodgers! (use WASD to move)](https://eternalxlks.github.io/BombDodgers/)
-5. [2D-Fortnite](eternalxlks.github.io/2D-Fortnite/)
+5. [2D-Fortnite](https://eternalxlks.github.io/2D-Fortnite/)
 6. [Solid Octo Tribble](https://eternalxlks.github.io/Solid-Octo-Tribble/)
 ### Stuff:
 - 😄 Pronouns: he/him/god/GOAT (haha)
