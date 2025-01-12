@@ -20,6 +20,7 @@ Here are a few things I made................
 - 🎮 Gaming (Minecraft, Fortnite etc.)
 - 😴 Sleeping.
 - 😑 Existing.
+- 🥘 Eating
 - <strong>Yeah. That's about it.</strong>
  🤯 Until then, go <strong>crazy:</strong>
  <img src="https://github.com/eternalxlks/eternalxlks/blob/main/dancing-cat-dance.gif?raw=true" alt="dancing-cat-dance.gif"/>
