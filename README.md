@@ -1,15 +1,6 @@
 
 # Hi! I'm eternalxlks 👋
 <img src="https://github.com/eternalxlks/eternalxlks/blob/main/robotwaving.gif?raw=true" alt="robotwaving.gif"/>
-
-Here are a few things I made................
-1. [My Website](https://eternalxlks.github.io)
-2. [My Shop!](https://eternalxlks.github.io/EternalShop/)
-3. [Web Pong!](https://eternalxlks.github.io/WebPong/)
-4. [Bomb Dodgers! (use WASD to move)](https://eternalxlks.github.io/BombDodgers/)
-5. [2D-Fortnite](https://eternalxlks.github.io/2D-Fortnite/)
-6. [Solid Octo Tribble](https://eternalxlks.github.io/Solid-Octo-Tribble/)
-### Stuff:
 - 😄 Pronouns: he/him/god/GOAT (haha)
 - ⚡ Fun fact: I'm a Dragon Ball guy.
 - 🧠 And if for some reason, you ever want to see your exact location, use this! [Location Finder!(Latitude and Longitude only!)](https://eternalxlks.github.io/FindYourLocation/)
