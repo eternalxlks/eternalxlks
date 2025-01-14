@@ -1,6 +1,7 @@
 
 # Hi! I'm eternalxlks 👋
 <img src="https://github.com/eternalxlks/eternalxlks/blob/main/robotwaving.gif?raw=true" alt="robotwaving.gif"/>
+
 - 😄 Pronouns: he/him/god/GOAT (haha)
 - ⚡ Fun fact: I'm a Dragon Ball guy.
 - 🧠 And if for some reason, you ever want to see your exact location, use this! [Location Finder!(Latitude and Longitude only!)](https://eternalxlks.github.io/FindYourLocation/)
