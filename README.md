@@ -1,5 +1,5 @@
 
-# Hi! I'm eternalxlks (Black Hat X)👋
+# Hi! I'm infinitexlks 👋
 <img src="https://github.com/eternalxlks/eternalxlks/blob/main/robotwaving.gif?raw=true" alt="robotwaving.gif"/>
 
 # [Join CodeOps-X!](https://github.com/CodeOps-X) 
