@@ -2,7 +2,10 @@
 # Hi! I'm Infinite 👋
 <img src="https://github.com/eternalxlks/eternalxlks/blob/main/robotwaving.gif?raw=true" alt="robotwaving.gif"/>
 
-# [Join CodeOps-X!](https://github.com/CodeOps-X) 
+# [Join CodeOps-X!](https://github.com/CodeOps-X)
+## My tech stack!
+<img src="https://github.com/infinitexlks/infinitexlks/blob/main/Tech-Stack.png?raw=true" alt="Tech-Stack.png"/>!
+### Stuff and things
 - 😄 Pronouns: he/him/god/GOAT (haha)
 -  ⚡ Fun fact: I'm a Dragon Ball guy.
 - 🧠 And if for some reason, you ever want to see your exact location, use this! [Location Finder!(Latitude and Longitude only!)](https://infinitexlks.github.io/FindYourLocation/)
