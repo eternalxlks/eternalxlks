@@ -2,7 +2,7 @@
 # Hi! I'm Infinite 👋
 
 
-## Languages
+## Most Used Languages
 <img src="https://github.com/infinitexlks/infinitexlks/blob/main/Tech-Stack.png?raw=true" alt="Tech-Stack.png"/>!
 ### Stuff and things
 - 😄 Pronouns: he/him/god/GOAT (haha)
