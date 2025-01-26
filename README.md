@@ -5,9 +5,6 @@
 ## Languages
 <table align="left">
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
-    </td>
-  <tr>
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><br>Python
     </td>
   </tr>
