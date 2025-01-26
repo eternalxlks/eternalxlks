@@ -1,23 +1,7 @@
+# Hi, I'm Infinite 👋
 
-# Hi! I'm Infinite 👋
-
-
-## Languages
-<table align="left">
-    <td align="left" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><br>Python
-    </td>
-  </tr>
-    <table align="left">
-        <td align="left" width="120">
-<img 
-src="https://camo.githubusercontent.com/eeb44441a504381a27bb2273f4d3c7b28f26f045843fd6ecfa83172fb99a1eb1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c68746d6c2c6373732c7761736d" alt="My Skills"/>!
-    <br>Other
-</td>
- </tr>
-</table>
-
-
+## Most Used Languages
+<img src="https://github.com/infinitexlks/infinitexlks/blob/main/Tech-Stack.png?raw=true" alt="Tech-Stack.png"/>!
 ### Stuff and things
 - 😄 Pronouns: he/him/god/GOAT (haha)
 -  ⚡ Fun fact: I'm a Dragon Ball guy.
@@ -33,5 +17,3 @@ src="https://camo.githubusercontent.com/eeb44441a504381a27bb2273f4d3c7b28f26f045
 - <strong>Yeah. That's about it.</strong>
  🤯 Until then, go <strong>crazy:</strong>
  <img src="https://github.com/eternalxlks/eternalxlks/blob/main/dancing-cat-dance.gif?raw=true" alt="dancing-cat-dance.gif"/>
-
-
