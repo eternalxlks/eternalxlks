@@ -13,7 +13,7 @@
     </td>
   </tr>
     <td> align="center" width="96"</td>
-    <img src="https://skillicons.dev/icons?i=all" 
+    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
         
 
 </table>
