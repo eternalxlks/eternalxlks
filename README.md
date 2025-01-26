@@ -16,6 +16,7 @@ src="https://camo.githubusercontent.com/eeb44441a504381a27bb2273f4d3c7b28f26f045
 </td>
 </tr>
 </table>
+
 ### Stuff and things
 - 😄 Pronouns: he/him/god/GOAT (haha)
 -  ⚡ Fun fact: I'm a Dragon Ball guy.
