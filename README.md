@@ -6,7 +6,6 @@
 <img src="https://github.com/infinitexlks/infinitexlks/blob/main/Tech-Stack.png?raw=true" alt="Tech-Stack.png"/>!
 # Tools
 <table align="center">
-
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" /><br>GitHub
     </td>
