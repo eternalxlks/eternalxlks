@@ -1,7 +1,7 @@
 # Hi, I'm Infinite 👋
 
 ## 🛠️ Tools and Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,python,github,go,java,)](#)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js,rust,github,go,java,)](#)
 ### Stuff and things
 - 😄 Pronouns: he/him/god/GOAT (haha)
 -  ⚡ Fun fact: I'm a Dragon Ball guy.
