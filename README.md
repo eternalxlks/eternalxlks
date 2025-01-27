@@ -1,7 +1,7 @@
 # Hi, I'm Infinite 👋
 
-## Most Used Languages
-<img src="https://github.com/infinitexlks/infinitexlks/blob/main/Tech-Stack.png?raw=true" alt="Tech-Stack.png"/>!
+## 🛠️ Tools and Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,rust,python,github,)](#)
 ### Stuff and things
 - 😄 Pronouns: he/him/god/GOAT (haha)
 -  ⚡ Fun fact: I'm a Dragon Ball guy.
