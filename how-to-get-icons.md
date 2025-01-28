@@ -8,3 +8,4 @@ It's actually easy! Just type up this, and replace the icons with what you want!
 ![Infinite's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitexlks&show_icons=true&theme=transparent)
 ```
 Just replace my username with yours, Nothing other needed.
+**follow me if you can 💀**
