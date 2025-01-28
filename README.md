@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,rust,github,go,java,)](#)
 ## ✈️ My GitHub Stats
 ![Infinite's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitexlks&show_icons=true&theme=transparent)
- [![Top languages](https://github-readme-infinitexlks.vercel.app/api/top-langs/?username=infinitexlks&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Top languages](https://github-readme-infinitexlks.vercel.app/api/top-langs/?username=infinitexlks&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ### Stuff and things
 - 
