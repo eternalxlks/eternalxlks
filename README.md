@@ -12,4 +12,3 @@
 
  <img src="https://github.com/eternalxlks/eternalxlks/blob/main/dancing-cat-dance.gif?raw=true" alt="dancing-cat-dance.gif"/>
  <img src="https://raw.githubusercontent.com/infinitexlks/infinitexlks/7c1316ee8e0bc373049ad4d82fb975e50d0594de/movingfinisher.svg"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" />
