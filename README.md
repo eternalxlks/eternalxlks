@@ -8,7 +8,8 @@
 ### Stuff and things
 - <img src="https://raw.githubusercontent.com/infinitexlks/infinitexlks/refs/heads/main/new.webp" alt="New Image" width="25" height="25" /> Well, I kind of just started a few months ago, so my GitHub stats are kind of bad,
 - 🎮 I love to play video games, and I actually touch grass.
-- I would like if YOU help me with some of my projects. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
-- Follow me if you can, I'm trying to get 100 more followers than [one of my friends.💀](https://github.com/brunozhon)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /> I would like if YOU help me with some of my projects. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />
+- Follow me if you can, I'm trying to get 100 more followers than [one of my friends.<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Skull.png?raw=true" alt="Skull.png" alt="Skull" width="25" height="25" align="center" />
+](https://github.com/brunozhon)
  <img src="https://github.com/eternalxlks/eternalxlks/blob/main/dancing-cat-dance.gif?raw=true" alt="dancing-cat-dance.gif"/>
  <img src="https://raw.githubusercontent.com/infinitexlks/infinitexlks/7c1316ee8e0bc373049ad4d82fb975e50d0594de/movingfinisher.svg"/>
