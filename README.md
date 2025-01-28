@@ -7,7 +7,7 @@
 ![Infinite's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitexlks&show_icons=true&theme=transparent)
 ### Stuff and things
 - <img src="https://raw.githubusercontent.com/infinitexlks/infinitexlks/refs/heads/main/new.webp" alt="New Image" width="25" height="25" /> Well, I kind of just started a few months ago, so my GitHub stats are kind of bad,
-- 🎮 I love to play video games, and I actually touch grass.
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Video%20Game.png?raw=true" alt="Video Game.png" alt="Game" width="25" height="25" /> I love to play video games, and I actually touch grass.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /> I would like if YOU help me with some of my projects. 
 - Follow me if you can, I'm trying to get 100 more followers than [one of my friends.<img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Skull.png?raw=true" alt="Skull.png" alt="Skull" width="25" height="25" align="center" />
 ](https://github.com/brunozhon)
