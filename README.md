@@ -2,7 +2,7 @@
 
 
 ## 🛠️ Tools and Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,codepen,github,java,eclipse,python,pycharm,flask,go,powershell,bash,swift,c++)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,codepen,github,java,eclipse,python,pycharm,flask,go,powershell,bash,swift,c)](#)
 ## ✈️ My GitHub Stats
 ![Infinite's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitexlks&show_icons=true&theme=transparent)
 ### Stuff and things
