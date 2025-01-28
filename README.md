@@ -2,8 +2,8 @@
 
 ## 🛠️ Tools and Languages
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,js,rust,github,go,java,)](#)
-
-[![Infinite's github stats](https://github-readme-stats.vercel.app/api?username=infinitexlks)](https://github.com/infinitexlks/github-readme-stats)
+## ✈️ My GitHub Stats
+![Infinite's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitexlks&show_icons=true&theme=transparent)
 ### Stuff and things
 - 😄 Pronouns: he/him/god/GOAT (haha)
 -  ⚡ Fun fact: I'm a Dragon Ball guy.
