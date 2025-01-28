@@ -3,7 +3,7 @@
 
 ## 🛠️ Tools and Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,codepen,github,java,eclipse,python,pycharm,flask,go,powershell,bash,swift,unrealengine)](#)
-## ✈️ My GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />  My GitHub Stats
 ![Infinite's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitexlks&show_icons=true&theme=transparent)
 ### Stuff and things
 - <img src="https://raw.githubusercontent.com/infinitexlks/infinitexlks/refs/heads/main/new.webp" alt="New Image" width="25" height="25" /> Well, I kind of just started a few months ago, so my GitHub stats are kind of bad,
