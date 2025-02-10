@@ -4,7 +4,7 @@
 ## 🛠️ Tools and Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,codepen,github,java,eclipse,python,pycharm,flask,go,bash,rust,unrealengine,bootstrap)](#)
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />  My GitHub Stats
-![Infinite's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitexlks&show_icons=true&theme=rainbow_gradient)
+![Infinite's GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitexlks&show_icons=true&theme=ambient_gradient)
 ### Stuff and things
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Symbols/New%20Button.png?raw=true" alt="New Button.png" width="20" height="20"/> Well, I kind of just started a few months ago, so my GitHub stats are kind of bad,
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Activities/Video%20Game.png?raw=true" alt="Video Game.png" alt="Game" width="20" height="20" />  I love to play video games, and I actually touch grass.
